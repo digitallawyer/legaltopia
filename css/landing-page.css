@@ -48,7 +48,8 @@ header.masthead h1 {
 
   }
   header.masthead h1 {
-    font-size: 1.75rem;
+    font-size: 1.9rem;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 .showcase .showcase-text {
