@@ -43,7 +43,7 @@ header.masthead h1 {
     text-shadow: 1px 1px 1px #000000;
 }
 
-@media (min-width: 768px) {
+@media (min-device-width: 768px) {
   header.masthead h1 {
     padding-top: 60vh;
     font-size: 1.9rem;
@@ -51,7 +51,7 @@ header.masthead h1 {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-device-width: 768px) {
   header.masthead {
 
   }
